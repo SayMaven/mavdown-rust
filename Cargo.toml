@@ -1,0 +1,15 @@
+[package]
+name = "maven_downloader"
+version = "1.4.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"
+tokio = { version = "1.36", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+reqwest = { version = "0.12", features = ["json", "rustls-tls"] } # Untuk HTTP Request Async
+image = { version = "0.24", features = ["jpeg", "png", "webp"] } # Untuk memproses gambar
+regex = "1.10"
+open = "5.1"
+rfd = "0.14"
