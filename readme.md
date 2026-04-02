@@ -4,7 +4,7 @@ Maven Downloader is a lightning-fast, portable, and feature-rich video/audio dow
 
 Powered by `yt-dlp` and `aria2c` under the hood, it offers granular control over your downloads without sacrificing user experience.
 
-![Maven Downloader Screenshot](https://via.placeholder.com/1200x700.png?text=Put+Your+App+Screenshot+Here) *(Remember to replace this with an actual screenshot of your app)*
+![Maven Downloader Screenshot](https://res.cloudinary.com/ds4a54vuy/image/upload/v1775159887/Screenshot_mavdown_rust.png) 
 
 ## ✨ Features
 
